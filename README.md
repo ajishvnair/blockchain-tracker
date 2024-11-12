@@ -34,7 +34,7 @@ SMTP_PASS=your_app_password
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/ajishvnair/blockchain-tracker.git
 cd blockchain-tracker
 ```
 
